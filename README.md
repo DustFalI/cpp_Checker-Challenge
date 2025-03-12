@@ -1,7 +1,7 @@
 # cpp_Checker-Challenge
 C++练习 皇后问题
 
-# P1219 [USACO1.5] 八皇后 Checker Challenge
+八皇后 Checker Challenge
 
 题目描述：
 一个如下的 $6 \times 6$ 的跳棋棋盘，有六个棋子被放置在棋盘上，使得每行、每列有且只有一个，每条对角线（包括两条主对角线的所有平行线）上至多有一个棋子。
